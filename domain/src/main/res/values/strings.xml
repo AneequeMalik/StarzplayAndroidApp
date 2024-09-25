@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Starzplay Android Simulated Video App</string>
+    <string name="TMDB_BASE_URL">https://api.themoviedb.org/3/</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="app_theme" parent="Theme.Material3.Light.NoActionBar"/>
+    <style name="search_view_theme" parent="Theme.Material3.Light">
+        <item name="android:windowBackground">@color/grey_medium</item>
+        <item name="android:colorBackground">@color/grey_medium</item>
+
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarzplayAndroidApp</string>
+    <string name="searchbar_hint">Search for movies, TV shows, and more</string>
+    <string name="header_movies">Movies</string>
+    <string name="header_tv_shows">TV Shows</string>
+    <string name="header_others">Others</string>
+    <string name="desc_back_button">Back Button</string>
+    <string name="play">Play</string>
+    <string name="recent_searches_will_appear_here">Recent searches will appear here</string>
+</resources>

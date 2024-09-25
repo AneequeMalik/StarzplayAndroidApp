@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StarzplayAndroidApp</string>
+    <string name="searchbar_hint">البحث عن الأفلام والبرامج التلفزيونية والمزيد</string>
+    <string name="header_movies">افلام</string>
+    <string name="header_tv_shows">برامج تلفزيونية</string>
+    <string name="header_others">الاخرين</string>
+    <string name="desc_back_button">زر الرجوع</string>
+    <string name="play">لعب</string>
+    <string name="recent_searches_will_appear_here">ستظهر عمليات البحث الأخيرة هنا</string>
+</resources>

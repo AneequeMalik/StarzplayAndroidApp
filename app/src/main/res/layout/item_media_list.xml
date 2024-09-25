@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mediaItem"
+    android:layout_marginTop="@dimen/_10sdp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <include
+        android:id="@+id/layoutTitle"
+        layout="@layout/item_title"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMedia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_6sdp"
+        app:layout_constraintTop_toBottomOf="@+id/layoutTitle"
+        app:layout_constraintStart_toStartOf="@id/layoutTitle"
+        app:layout_constraintEnd_toEndOf="@id/layoutTitle"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
